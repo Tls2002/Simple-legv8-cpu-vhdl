@@ -1,0 +1,22 @@
+# ModelSim files
+*.wlf
+*.vstf
+*.ucdb
+transcript
+vsim.wlf
+work/
+work/_info
+*.bak
+*.MF
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Vivado files
+*.bit
+*.xpr
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
