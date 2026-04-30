@@ -28,7 +28,7 @@ The CPU is composed of the following components:
 ---
 
 ## Block Diagram
-"/Diagram/Block Diagram.png"
+"/Diagram/Block_Diagram.png"
 
 ---
 
